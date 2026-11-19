@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p1",
+    "display": "来访人甲",
+    "aliases": "我、来访人",
+    "homeStation": "青涧"
+  },
+  {
+    "id": "p2",
+    "display": "阿兰",
+    "aliases": "兰妹、Lan",
+    "homeStation": "柘坪"
+  },
+  {
+    "id": "p3",
+    "display": "阿兰的舅",
+    "aliases": "她舅",
+    "homeStation": "柘坪"
+  }
+]

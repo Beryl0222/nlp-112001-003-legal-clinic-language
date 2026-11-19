@@ -1,0 +1,50 @@
+[
+  {
+    "id": "t1",
+    "turn": "1",
+    "voice": "来访人甲",
+    "language": "zh",
+    "heardAt": "柘坪站",
+    "text": "我是替阿兰问，她舅让签租地的纸，没给她留一份。我可没签。"
+  },
+  {
+    "id": "t2",
+    "turn": "2",
+    "voice": "接访员",
+    "language": "zh",
+    "heardAt": "柘坪站",
+    "text": "譬如当事人本人签了，也可以先问协议副本。"
+  },
+  {
+    "id": "t3",
+    "turn": "3",
+    "voice": "译员",
+    "language": "en",
+    "heardAt": "柘坪站",
+    "text": "Lan says her uncle did it. I did not sign."
+  },
+  {
+    "id": "t4",
+    "turn": "4",
+    "voice": "来访人甲",
+    "language": "zh",
+    "heardAt": "柘坪站",
+    "text": "还有钱的事是在青涧，是我没拿到上月工钱。"
+  },
+  {
+    "id": "t5",
+    "turn": "5",
+    "voice": "来访人甲",
+    "language": "zh",
+    "heardAt": "柘坪站",
+    "text": "前面我讲错了，阿兰的舅只是转话，让她签的是合作社的人。"
+  },
+  {
+    "id": "t6",
+    "turn": "6",
+    "voice": "译员",
+    "language": "en",
+    "heardAt": "柘坪站",
+    "text": "No, her uncle only passed the request along. The cooperative asked Lan to sign."
+  }
+]

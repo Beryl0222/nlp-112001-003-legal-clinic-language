@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s1",
+    "name": "柘坪调解点",
+    "topic": "土地租用",
+    "coverage": "柘坪",
+    "languages": "zh、en",
+    "access": "可接收土地相关摘要"
+  },
+  {
+    "id": "s2",
+    "name": "青涧务工站",
+    "topic": "工资处理",
+    "coverage": "青涧",
+    "languages": "zh",
+    "access": "可接收本人务工相关证词"
+  },
+  {
+    "id": "s3",
+    "name": "巡回翻译席",
+    "topic": "语言补问",
+    "coverage": "柘坪、青涧",
+    "languages": "zh、en",
+    "access": "只发需翻译的选段"
+  }
+]
