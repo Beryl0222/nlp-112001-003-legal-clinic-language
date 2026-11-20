@@ -1,0 +1,46 @@
+[
+  {
+    "id": "r1",
+    "item": "整段",
+    "toStation": "s1",
+    "sentAt": "2026-11-17",
+    "basisTurns": "t1",
+    "excerptTurns": "t1,t2,t3,t4",
+    "status": "已接收",
+    "arrangement": "已约定 2026-11-25 面谈",
+    "note": "初次接访后按整段转出，未拆分事项。"
+  },
+  {
+    "id": "r2",
+    "item": "工资",
+    "toStation": "s2",
+    "sentAt": "2026-11-18",
+    "basisTurns": "t4",
+    "excerptTurns": "t4",
+    "status": "已接收",
+    "arrangement": "已排 2026-11-24 电话核实",
+    "note": "仅含本人工资陈述，未附土地事项。"
+  },
+  {
+    "id": "r3",
+    "item": "翻译",
+    "toStation": "s3",
+    "sentAt": "2026-11-18",
+    "basisTurns": "t1,t3",
+    "excerptTurns": "t1,t3",
+    "status": "草稿",
+    "arrangement": "",
+    "note": "拟请翻译席核对 t3 译文，尚未发出。"
+  },
+  {
+    "id": "r4",
+    "item": "翻译",
+    "toStation": "s3",
+    "sentAt": "2026-11-19",
+    "basisTurns": "t3,t6",
+    "excerptTurns": "t3,t6,t4",
+    "status": "已接收",
+    "arrangement": "已排 2026-11-26 译员回看",
+    "note": "补齐 t6 更正时把 t4 一并附上，需核查是否夹带。"
+  }
+]
